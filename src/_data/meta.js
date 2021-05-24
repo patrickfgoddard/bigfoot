@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
-  siteName: "11ty Netlify Jumpstart",
+  siteName: "Bigfoot Museum & Skatepark in Long Beach, CA",
   siteDescription:
-    "Quickly launch an 11ty-generated static site. Includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.",
-  authorName: "Stephanie Eckles",
-  twitterUsername: "5t3ph", // no `@`
+    "Explore the mysteries of Bigfoot sitings in Long Beach,CA and ride the curves of the moon in our private skatepark facility.",
+  authorName: "Patrick Goddard",
+  twitterUsername: "hollowhome1", // no `@`
 };
