@@ -1,6 +1,6 @@
 ---
-title: "Hello World"
-description: 'A demo of the "Page" template and kitchen sink sample of styled elements.'
+title: "Skatepark"
+description: 'Cruise out 12,000 square foot roller coaster skatepark'
 ---
 
 > Credit for the kitchen sink elements to the ["Just the Docs"](https://github.com/pmarsceill/just-the-docs) project by [pmarsceill](https://github.com/pmarsceill).

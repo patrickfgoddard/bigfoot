@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "Review feature info and customization details."
+title: "Museum"
+description: "Tour Bigfoot history and explore our one-of-a-kind artifacts."
 ---
 
 ## Intro to Jumpstart
